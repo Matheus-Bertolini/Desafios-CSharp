@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cn605WPPLA4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nunes\\OneDrive\\Área de Trabalho\\ExerciciosCSharp\\ExerciciosCSharp\\ExerciciosCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nunes\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
